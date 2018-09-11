@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48e182de-9cd0-405a-bae3-f88e23155552" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BetterDoctorAPILogger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/BetterDoctorAPILogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>search</find>
+      <find>private</find>
+      <find>params</find>
+      <find>) {</find>
+      <find>public</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>get</replace>
+      <replace>public</replace>
+      <replace>JsonUtil</replace>
+      <replace>json</replace>
+      <replace>) throws Exception {</replace>
+      <replace>public static</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/BetterDoctor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/Doctor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/api/BetterDoctorAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/api/APIConstant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/Speciality.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/Practice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/InsurancePlan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/HttpResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/Doctor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/Condition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/InsuranceProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/service/BetterDoctorService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/api/APIConnection.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/radixhealth/betterdoctor/BetterDoctorAPITest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/BetterDoctorAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/util/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/BetterDoctorAPILogger.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="betterdoctor" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="width" value="1394" />
+    <option name="height" value="1021" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="betterdoctor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterdoctor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterdoctor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterdoctor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterdoctor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterdoctor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterdoctor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterdoctor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterdoctor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterdoctor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="betterdoctor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterdoctor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterdoctor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterdoctor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterdoctor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.radixhealth.betterdoctor.bean" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BetterDoctorAPITest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BetterDoctorAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="betterdoctor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.radixhealth.betterdoctor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.radixhealth.betterdoctor" />
+      <option name="MAIN_CLASS_NAME" value="com.radixhealth.betterdoctor.BetterDoctorAPITest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BetterDoctorAPITest.testGetConditions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="betterdoctor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.radixhealth.betterdoctor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.radixhealth.betterdoctor" />
+      <option name="MAIN_CLASS_NAME" value="com.radixhealth.betterdoctor.BetterDoctorAPITest" />
+      <option name="METHOD_NAME" value="testGetConditions" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BetterDoctorAPITest.testGetInsuranceProviderAndPlans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="betterdoctor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.radixhealth.betterdoctor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.radixhealth.betterdoctor" />
+      <option name="MAIN_CLASS_NAME" value="com.radixhealth.betterdoctor.BetterDoctorAPITest" />
+      <option name="METHOD_NAME" value="testGetInsuranceProviderAndPlans" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BetterDoctorAPITest.testGetInsuranceProviders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="betterdoctor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.radixhealth.betterdoctor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.radixhealth.betterdoctor" />
+      <option name="MAIN_CLASS_NAME" value="com.radixhealth.betterdoctor.BetterDoctorAPITest" />
+      <option name="METHOD_NAME" value="testGetInsuranceProviders" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BetterDoctorAPITest.testGetSpecialties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="betterdoctor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.radixhealth.betterdoctor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.radixhealth.betterdoctor" />
+      <option name="MAIN_CLASS_NAME" value="com.radixhealth.betterdoctor.BetterDoctorAPITest" />
+      <option name="METHOD_NAME" value="testGetSpecialties" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BetterDoctorAPITest.testGetSpecialties" />
+      <item itemvalue="JUnit.BetterDoctorAPITest" />
+      <item itemvalue="JUnit.BetterDoctorAPITest.testGetConditions" />
+      <item itemvalue="JUnit.BetterDoctorAPITest.testGetInsuranceProviders" />
+      <item itemvalue="JUnit.BetterDoctorAPITest.testGetInsuranceProviderAndPlans" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BetterDoctorAPITest" />
+        <item itemvalue="JUnit.BetterDoctorAPITest.testGetSpecialties" />
+        <item itemvalue="JUnit.BetterDoctorAPITest.testGetInsuranceProviderAndPlans" />
+        <item itemvalue="JUnit.BetterDoctorAPITest.testGetInsuranceProviders" />
+        <item itemvalue="JUnit.BetterDoctorAPITest.testGetConditions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48e182de-9cd0-405a-bae3-f88e23155552" name="Default" comment="" />
+      <created>1536645959914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536645959914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BetterDoctorAPITest_testGetConditions - 2018.09.11 at 11h 16m 59s.xml">
+      <configuration name="BetterDoctorAPITest.testGetConditions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest_testGetInsuranceProviders - 2018.09.11 at 11h 17m 27s.xml">
+      <configuration name="BetterDoctorAPITest.testGetInsuranceProviders" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest_testGetInsuranceProviderAndPlans - 2018.09.11 at 11h 17m 54s.xml">
+      <configuration name="BetterDoctorAPITest.testGetInsuranceProviderAndPlans" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest_testGetSpecialties - 2018.09.11 at 11h 19m 06s.xml">
+      <configuration name="BetterDoctorAPITest.testGetSpecialties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest_testGetSpecialties - 2018.09.11 at 11h 20m 24s.xml">
+      <configuration name="BetterDoctorAPITest.testGetSpecialties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest_testGetSpecialties - 2018.09.11 at 11h 26m 38s.xml">
+      <configuration name="BetterDoctorAPITest.testGetSpecialties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest_testGetSpecialties - 2018.09.11 at 11h 26m 49s.xml">
+      <configuration name="BetterDoctorAPITest.testGetSpecialties" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest - 2018.09.11 at 11h 28m 58s.xml">
+      <configuration name="BetterDoctorAPITest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest - 2018.09.11 at 11h 30m 35s.xml">
+      <configuration name="BetterDoctorAPITest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BetterDoctorAPITest - 2018.09.11 at 11h 32m 16s.xml">
+      <configuration name="BetterDoctorAPITest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="0" width="2884" height="1568" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" />
+      <window_info anchor="bottom" id="Messages" weight="0.3297953" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" weight="0.3297491" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297953" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3297953" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982078" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/local/java/jdk1.8.0_131/src.zip!/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="454" column="52" selection-start-line="454" selection-start-column="41" selection-end-line="454" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_131/src.zip!/java/net/URLEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="211" column="34" selection-start-line="211" selection-start-column="34" selection-end-line="211" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_131/jre/lib/deploy.jar!/com/sun/deploy/net/URLEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/api/BetterDoctorAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/Speciality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/HttpResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/Doctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/InsuranceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/bean/InsurancePlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/api/APIConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/api/APIConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/radixhealth/betterdoctor/BetterDoctorAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/service/BetterDoctorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1948">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/util/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="165" column="48" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/BetterDoctorAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/radixhealth/betterdoctor/BetterDoctorAPILogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>betterdoctor</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
