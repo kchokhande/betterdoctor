@@ -10,15 +10,16 @@
   <packaging>jar</packaging>
   <name>betterdoctor</name>
   <url>http://maven.apache.org</url>
+
   <scm>
-    <connection>
-      scm:git:https://github.com/kchokhande/betterdoctor
-    </connection>
-    <url>https://github.com/kchokhande/betterdoctor.git</url>
+    <connection>scm:git:git://github.com/kchokhande/betterdoctor.git</connection>
+    <developerConnection>scm:git:ssh://github.com:kchokhande/betterdoctor.git</developerConnection>
+    <url>http://github.com/kchokhande/betterdoctor/master</url>
   </scm>
+
   <distributionManagement>
     <repository>
-      <id>central</id>
+      <id>betterdoctor</id>
       <name>betterdoctor</name>
       <url>https://github.com/kchokhande/betterdoctor.git</url>
     </repository>
